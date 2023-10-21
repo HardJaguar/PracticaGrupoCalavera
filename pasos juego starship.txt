@@ -1,0 +1,15 @@
+1-empieza el juego.
+2-los jugadores distribuyen sus 6 naves por el tablero.
+3-Al terminar el despliege se elige aleatoriamente quien ataca primero.
+4-Comienza el combate.
+5-Se cuentan las bajas de la flota estelar y se decide si se rinde o no.
+6-Se pasa el contador de reparación de nave en un paso.
+7-El jugador elige una nave y arma para disparar.
+8-El jugador elige una coordenada para disparar.
+9-Se elige la modalidad de disparo del arma elegida.
+10-se resta la municion del arma.
+11-si acierta se notifica al jugador, sino el turno pasa a su oponente.
+12-Se comprueba si quedan naves enemigas, en el caso de no quedar se da la victoria al venzedor.
+13-Se repiten los pazos 5-12 hasta que un jugador gane.
+14-Finaliza el juego.
+15-Se suman puntos del ranking al ganador.
